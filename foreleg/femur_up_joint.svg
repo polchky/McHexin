@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="61.2mm"
+   height="16.2mm"
+   viewBox="0 0 61.2 16.2"
+   version="1.1"
+   id="svg4279"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="femur_up_joint.svg">
+  <metadata
+     id="metadata4293">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4291" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1131"
+     id="namedview4289"
+     showgrid="false"
+     inkscape:zoom="5.4968772"
+     inkscape:cx="138.93214"
+     inkscape:cy="37.316934"
+     inkscape:window-x="1680"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Sketch009" />
+  <g
+     id="Sketch009"
+     transform="translate(-22.952403,124.622240) scale(1,-1)">
+    <circle
+       cx="31.0524032288"
+       cy="116.522239737"
+       r="1.45"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
+       id="circle4282" />
+    <path
+       id="Sketch009_w0001"
+       d="M 31.0524032288 124.022239737 L 76.0524032288 124.022239737 A 7.5 7.5 0 1 0 76.0524032288 109.022239737 L 31.0524032288 109.022239737 A 7.5 7.5 0 0 0 31.0524032288 124.022239737 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#006633;stroke-opacity:1" />
+    <circle
+       cx="76.0524032288"
+       cy="116.522239737"
+       r="1.45"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
+       id="circle4285" />
+    <title
+       id="title4287">femur_up_joint</title>
+  </g>
+</svg>
