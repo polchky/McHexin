@@ -1,12 +1,94 @@
-<?xml version="1.0"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="58.0461530267mm" height="19.9961750752mm" viewBox="0 0 58.0461530267 19.9961750752" xmlns="http://www.w3.org/2000/svg" version="1.1">
-<g id="Sketch007" transform="translate(-92.303120,17.446398) scale(1,-1)">
-<circle cx="102.286595167" cy="9.39870607557" r="3.45" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="108.128756537" cy="6.54929376421" r="1.15" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="96.4444337961" cy="12.2481183869" r="1.15" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<path id="Sketch007_w0003"  d="M 108.854047877 12.6642842628 A 10.0 6.5 -25.9999985998 1 1 99.4371828553 3.55654470499 A 54.8524310114 54.8524310114 0 0 1 145.264851323 2.51539362688 A 7.5 7.5 0 1 1 136.515395103 14.1886173303 A 18.892405066 18.892405066 0 0 0 108.854047877 12.6642842628 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="142.286595167" cy="9.39870607557" r="1.45" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>femur_down</title>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="58.0461530267mm"
+   height="19.9961750752mm"
+   viewBox="0 0 58.0461530267 19.9961750752"
+   version="1.1"
+   id="svg4497"
+   sodipodi:docname="femur_down.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata4503">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4501" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1138"
+     inkscape:window-height="1008"
+     id="namedview4499"
+     showgrid="false"
+     inkscape:zoom="1.7502186"
+     inkscape:cx="93.880907"
+     inkscape:cy="-16.286392"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Sketch007" />
+  <g
+     id="Sketch007"
+     transform="translate(-92.303120,17.446398) scale(1,-1)">
+    <circle
+       cx="102.286595167"
+       cy="9.39870607557"
+       r="3.45"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
+       id="circle4485" />
+    <circle
+       cx="108.128756537"
+       cy="6.54929376421"
+       r="1.15"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
+       id="circle4487" />
+    <circle
+       cx="96.4444337961"
+       cy="12.2481183869"
+       r="1.15"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
+       id="circle4489" />
+    <path
+       id="Sketch007_w0003"
+       d="M 108.854047877 12.6642842628 A 10.0 6.5 -25.9999985998 1 1 99.4371828553 3.55654470499 A 54.8524310114 54.8524310114 0 0 1 145.264851323 2.51539362688 A 7.5 7.5 0 1 1 136.515395103 14.1886173303 A 18.892405066 18.892405066 0 0 0 108.854047877 12.6642842628 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#006633;stroke-opacity:1" />
+    <circle
+       cx="142.286595167"
+       cy="9.39870607557"
+       r="1.45"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
+       id="circle4492" />
+    <title
+       id="title4494">femur_down</title>
+  </g>
 </svg>

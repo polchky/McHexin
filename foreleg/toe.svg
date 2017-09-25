@@ -1,8 +1,62 @@
-<?xml version="1.0"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="8.109mm" height="10.159mm" viewBox="0 0 8.109 10.159" xmlns="http://www.w3.org/2000/svg" version="1.1">
-<g id="Sketch005" transform="translate(-10.527149,23.573986) scale(1,-1)">
-<path id="Sketch005_w0000"  d="M 10.6066488155 13.4944860264 L 18.5566488155 13.4944860264 L 18.5566488155 23.4944860264 L 16.0566488155 23.4944860264 L 16.0566488155 18.4944860264 L 13.1066488155 18.4944860264 L 13.1066488155 23.4944860264 L 10.6066488155 23.4944860264 L 10.6066488155 13.4944860264 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>toe</title>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.109mm"
+   height="10.159mm"
+   viewBox="0 0 8.109 10.159"
+   version="1.1"
+   id="svg6750"
+   sodipodi:docname="toe.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata6756">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6754" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="732"
+     inkscape:window-height="480"
+     id="namedview6752"
+     showgrid="false"
+     inkscape:zoom="6.1464381"
+     inkscape:cx="15.324095"
+     inkscape:cy="19.198111"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Sketch005" />
+  <g
+     id="Sketch005"
+     transform="translate(-10.527149,23.573986) scale(1,-1)">
+    <path
+       id="Sketch005_w0000"
+       d="M 10.6066488155 13.4944860264 L 18.5566488155 13.4944860264 L 18.5566488155 23.4944860264 L 16.0566488155 23.4944860264 L 16.0566488155 18.4944860264 L 13.1066488155 18.4944860264 L 13.1066488155 23.4944860264 L 10.6066488155 23.4944860264 L 10.6066488155 13.4944860264 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-opacity:1" />
+    <title
+       id="title6747">toe</title>
+  </g>
 </svg>
