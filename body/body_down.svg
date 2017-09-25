@@ -1,224 +1,55 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="197.084898225mm"
-   height="197.540203363mm"
-   viewBox="0 0 197.084898225 197.540203363"
-   version="1.1"
-   id="svg4236"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="body_down.svg">
-  <metadata
-     id="metadata4285">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs4283" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1131"
-     id="namedview4281"
-     showgrid="false"
-     inkscape:zoom="1.0041696"
-     inkscape:cx="346.20694"
-     inkscape:cy="314.09653"
-     inkscape:window-x="1680"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="Sketch001" />
-  <g
-     id="Sketch001"
-     transform="translate(73.850647,66.444170) scale(1,-1)">
-    <path
-       id="Sketch001_w0000"
-       d="M 107.094526708 -44.041483967 A 12.0 12.0 0 1 1 107.094526708 -20.610379796 A 34.6304329381 34.6304329381 0 0 0 80.9922111177 42.4061845111 A 12.0 12.0 0 1 1 64.7147912861 59.409799097 A 48.859048195 48.859048195 0 0 0 -15.3311871358 59.409799097 A 12.0 12.0 0 1 1 -31.6086069674 42.4061845111 A 34.6304329381 34.6304329381 0 0 0 -57.7109225576 -20.610379796 A 12.0 12.0 0 1 1 -57.7109225576 -44.041483967 A 34.6304329382 34.6304329382 0 0 0 -31.6086069674 -107.058048274 A 12.0 12.0 0 1 1 -15.3311871358 -124.06166286 A 48.859048195 48.859048195 0 0 0 64.7147912861 -124.06166286 A 12.0 12.0 0 1 1 80.9922111177 -107.058048274 A 34.6304329382 34.6304329382 0 0 0 107.094526708 -44.041483967 "
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#006633;stroke-opacity:1" />
-    <circle
-       cx="74.5446158176"
-       cy="52.5268818608"
-       r="3.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
-       id="circle4240" />
-    <circle
-       cx="79.1408098953"
-       cy="57.1230759385"
-       r="1.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
-       id="circle4242" />
-    <circle
-       cx="69.9484217399"
-       cy="47.9306877831"
-       r="1.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
-       id="circle4244" />
-    <circle
-       cx="109.691802075"
-       cy="-32.3259318815"
-       r="3.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
-       id="circle4246" />
-    <circle
-       cx="116.191802075"
-       cy="-32.3259318815"
-       r="1.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
-       id="circle4248" />
-    <circle
-       cx="103.191802075"
-       cy="-32.3259318815"
-       r="1.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
-       id="circle4250" />
-    <circle
-       cx="74.5446158176"
-       cy="-117.178745624"
-       r="3.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
-       id="circle4252" />
-    <circle
-       cx="69.9484217399"
-       cy="-112.582551546"
-       r="1.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
-       id="circle4254" />
-    <circle
-       cx="79.1408098953"
-       cy="-121.774939702"
-       r="1.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
-       id="circle4256" />
-    <circle
-       cx="-25.1610116673"
-       cy="52.5268818608"
-       r="3.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
-       id="circle4258" />
-    <circle
-       cx="-60.3081979248"
-       cy="-32.3259318815"
-       r="3.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
-       id="circle4260" />
-    <circle
-       cx="-25.1610116673"
-       cy="-117.178745624"
-       r="3.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
-       id="circle4262" />
-    <circle
-       cx="-20.5648175896"
-       cy="47.9306877831"
-       r="1.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
-       id="circle4264" />
-    <circle
-       cx="-53.8081979248"
-       cy="-32.3259318815"
-       r="1.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
-       id="circle4266" />
-    <circle
-       cx="-20.5648175896"
-       cy="-112.582551546"
-       r="1.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
-       id="circle4268" />
-    <circle
-       cx="-29.757205745"
-       cy="57.1230759385"
-       r="1.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
-       id="circle4270" />
-    <circle
-       cx="-66.8081979248"
-       cy="-32.3259318815"
-       r="1.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
-       id="circle4272" />
-    <circle
-       cx="-29.757205745"
-       cy="-121.774939702"
-       r="1.5"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
-       id="circle4274" />
-    <path
-       id="Sketch001_w0019"
-       d="M 55.3506020752 27.8742681185 L -5.96699792484 27.8742681185 L -5.96699792484 -11.2940318815 L 55.3506020752 -11.2940318815 L 55.3506020752 27.8742681185 "
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-opacity:1" />
-    <path
-       id="Sketch001_w0020"
-       d="M -5.96699792484 -92.5261318815 L 55.3506020752 -92.5261318815 L 55.3506020752 -53.3578318815 L -5.96699792484 -53.3578318815 L -5.96699792484 -92.5261318815 "
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-opacity:1" />
-    <path
-       id="Sketch001_w0021"
-       d="M -22.4323979248 -23.1629118815 L -22.4323979248 -41.4889518815 L 71.8160020752 -41.4889518815 L 71.8160020752 -23.1629118815 L -22.4323979248 -23.1629118815 "
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-opacity:1" />
-    <title
-       id="title4279">body_down</title>
-  </g>
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="196.931686317mm" height="211.089503112mm" viewBox="0 0 196.931686317 211.089503112" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Sketch009" transform="translate(98.465843,112.344640) scale(1,-1)">
+<path id="Sketch009_w0000"  d="M 74.8234228461 -6.3590311708 A 12.0 12.0 0 0 1 96.5351403513 3.30764826981 A 72.9797556937 72.9797556937 0 0 1 42.7993696131 54.3009906655 A 9.67773076219 9.67773076219 0 0 0 47.1534010903 73.1603729649 A 12.0 12.0 0 0 1 55.9315641902 95.1992524047 A 110.413937214 110.413937214 0 0 1 -55.9315641902 95.1992524047 A 12.0 12.0 0 0 1 -47.1534010903 73.1603729649 A 9.67773076219 9.67773076219 0 0 0 -42.7993696131 54.3009906655 A 72.9797556937 72.9797556937 0 0 1 -96.5351403513 3.30764826981 A 12.0 12.0 0 0 1 -74.8234228461 -6.3590311708 A 9.67773076219 9.67773076219 0 1 0 -58.4090605501 -16.6158631007 A 72.9797556937 72.9797556937 0 0 1 -60.3482502281 -90.6705291853 A 12.0 12.0 0 0 1 -38.160372965 -82.1534010902 A 9.67773076219 9.67773076219 0 0 0 -34.3966396335 -72.1306607383 A 58.75112879 58.75112879 0 0 0 34.3966396335 -72.1306607383 A 9.67773076219 9.67773076219 0 0 0 38.160372965 -82.1534010902 A 12.0 12.0 0 0 1 60.3482502281 -90.6705291853 A 72.9797556937 72.9797556937 0 0 1 58.4090605501 -16.6158631007 A 9.67773076219 9.67773076219 0 1 0 74.8234228461 -6.3590311708 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="49.8528137424" cy="84.8528137423" r="3.45" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="54.4490078201" cy="89.44900782" r="1.15" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="45.2566196647" cy="80.2566196646" r="1.15" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="85.0" cy="4.62860733487e-27" r="3.45" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="91.5" cy="6.99394217808e-27" r="1.15" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="78.5" cy="-1.04146972859e-26" r="1.15" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="49.8528137424" cy="-84.8528137423" r="3.45" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="45.2566196647" cy="-80.2566196646" r="1.15" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="54.4490078201" cy="-89.44900782" r="1.15" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-49.8528137424" cy="-84.8528137423" r="3.45" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-85.0" cy="-1.54934116234e-27" r="3.45" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-49.8528137424" cy="84.8528137423" r="3.45" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-45.2566196647" cy="80.2566196646" r="1.15" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-54.4490078201" cy="89.44900782" r="1.15" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-78.5" cy="2.31398505881e-27" r="1.15" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-91.5" cy="-5.41266738198e-27" r="1.15" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-45.2566196647" cy="-80.2566196646" r="1.15" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-54.4490078201" cy="-89.44900782" r="1.15" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>body_down</title>
+</g>
+<g id="Sketch014" transform="translate(98.465843,112.344640) scale(1,-1)">
+<path id="Sketch014_w0000"  d="M 43.8308611674 -40.643122093 A 0.5 0.5 0 1 1 43.8329819533 -39.6431243419 L 42.0084366429 -37.8108236266 A 0.5 0.5 0 1 1 41.0084388918 -37.8087028407 L 39.8847429895 -38.9276425821 A 0.5 0.5 0 1 1 39.8826222036 -39.9276403333 L 40.2354249881 -40.2819427398 A 0.498572012908 0.498572012908 0 0 0 39.6723875941 -41.0860434717 L 39.2187865783 -40.8756958584 A 0.5 0.5 0 1 1 38.2798214222 -41.2197081194 L 37.6126886376 -42.6583367975 A 0.5 0.5 0 0 1 37.9567008986 -43.5973019536 L 40.3025316084 -44.6851299648 A 0.5 0.5 0 0 1 41.2414967645 -44.3411177037 L 42.2061059966 -42.2610003171 L 43.8308611674 -40.643122093 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch014_w0001"  d="M 33.2399006872 -33.2566832915 A 0.5 0.5 0 1 1 34.2398984383 -33.2588040774 L 35.3635943405 -32.1398643359 A 0.5 0.5 0 1 1 35.3657151264 -31.1398665848 L 33.541169816 -29.3075658695 A 0.5 0.5 0 0 1 32.5411720649 -29.3054450836 L 31.4174761627 -30.4243848251 A 0.5 0.5 0 1 1 31.4153553768 -31.4243825762 L 33.2399006872 -33.2566832915 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch014_w0002"  d="M 29.4161072278 -39.6367872462 A 0.5 0.5 0 0 1 30.3550723838 -39.2927749851 L 31.0222051685 -37.854146307 A 0.5 0.5 0 1 1 30.6781929074 -36.915181151 L 28.3323621976 -35.8273531398 A 0.5 0.5 0 1 1 27.3933970416 -36.1713654008 L 26.7262642569 -37.6099940789 A 0.5 0.5 0 0 1 27.070276518 -38.548959235 L 29.4161072278 -39.6367872462 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="35.4472855238" cy="-37.5284232726" r="1.15" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path id="Sketch014_w0004"  d="M -41.2414967645 -44.3411177037 A 0.5 0.5 0 1 1 -40.3025316084 -44.6851299648 L -37.9567008986 -43.5973019536 A 0.5 0.5 0 1 1 -37.6126886376 -42.6583367975 L -38.2798214222 -41.2197081194 A 0.5 0.5 0 1 1 -39.2187865783 -40.8756958584 L -39.6723875941 -41.0860434717 A 0.498572012908 0.498572012908 0 0 0 -40.2354249881 -40.2819427398 L -39.8826222036 -39.9276403333 A 0.5 0.5 0 0 1 -39.8847429895 -38.9276425821 L -41.0084388918 -37.8087028407 A 0.5 0.5 0 1 1 -42.0084366429 -37.8108236266 L -43.8329819533 -39.6431243419 A 0.5 0.5 0 1 1 -43.8308611674 -40.643122093 L -42.2061059966 -42.2610003171 L -41.2414967645 -44.3411177037 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch014_w0005"  d="M -30.6781929074 -36.915181151 A 0.5 0.5 0 1 1 -31.0222051685 -37.854146307 L -30.3550723838 -39.2927749851 A 0.5 0.5 0 1 1 -29.4161072278 -39.6367872462 L -27.070276518 -38.548959235 A 0.5 0.5 0 1 1 -26.7262642569 -37.6099940789 L -27.3933970416 -36.1713654008 A 0.5 0.5 0 1 1 -28.3323621976 -35.8273531398 L -30.6781929074 -36.915181151 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch014_w0006"  d="M -35.3657151264 -31.1398665848 A 0.5 0.5 0 1 1 -35.3635943405 -32.1398643359 L -34.2398984383 -33.2588040774 A 0.5 0.5 0 0 1 -33.2399006872 -33.2566832915 L -31.4153553768 -31.4243825762 A 0.5 0.5 0 0 1 -31.4174761627 -30.4243848251 L -32.5411720649 -29.3054450836 A 0.5 0.5 0 1 1 -33.541169816 -29.3075658695 L -35.3657151264 -31.1398665848 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="-35.4472855238" cy="-37.5284232726" r="1.15" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>holes_back_down</title>
+</g>
+<g id="Sketch015" transform="translate(98.465843,112.344640) scale(1,-1)">
+<path id="Sketch015_w0000"  d="M 53.0093662682 28.9899793736 A 0.5 0.5 0 0 1 52.2286076338 29.614812115 L 49.6585862359 29.3297129828 A 0.5 0.5 0 1 1 49.0337534945 28.5489543484 L 49.2085963704 26.9728361439 A 0.5 0.5 0 1 1 49.9893550048 26.3480034025 L 50.4863066015 26.4031315306 A 0.498572012908 0.498572012908 0 0 0 50.7643082046 25.4616942238 L 50.317126073 25.2380245094 A 0.5 0.5 0 0 1 50.0010317812 24.2892967304 L 50.7104165805 22.8710260114 A 0.5 0.5 0 1 1 51.6591443596 22.5549317196 L 53.9717793418 23.7116559478 A 0.5 0.5 0 1 1 54.2878736336 24.6603837268 L 53.2621720906 26.7110654812 L 53.0093662682 28.9899793736 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch015_w0001"  d="M 40.6325380813 25.3100274591 A 0.5 0.5 0 0 1 41.2573708228 26.0907860935 L 41.0825279469 27.666904298 A 0.5 0.5 0 1 1 40.3017693124 28.2917370395 L 37.7317479145 28.0066379073 A 0.5 0.5 0 1 1 37.1069151731 27.2258792728 L 37.281758049 25.6497610684 A 0.5 0.5 0 1 1 38.0625166834 25.0249283269 L 40.6325380813 25.3100274591 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch015_w0002"  d="M 43.2394081827 18.3435828016 A 0.5 0.5 0 1 1 43.5555024744 19.2923105806 L 42.8461176752 20.7105812996 A 0.5 0.5 0 1 1 41.8973898961 21.0266755913 L 39.5847549139 19.8699513632 A 0.5 0.5 0 1 1 39.2686606221 18.9212235842 L 39.9780454214 17.5029528652 A 0.5 0.5 0 1 1 40.9267732004 17.1868585734 L 43.2394081827 18.3435828016 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="45.3489772746" cy="24.3743396802" r="1.15" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path id="Sketch015_w0004"  d="M -54.2878736336 24.6603837268 A 0.5 0.5 0 0 1 -53.9717793418 23.7116559478 L -51.6591443596 22.5549317196 A 0.5 0.5 0 1 1 -50.7104165805 22.8710260114 L -50.0010317812 24.2892967304 A 0.5 0.5 0 1 1 -50.317126073 25.2380245094 L -50.7643082046 25.4616942238 A 0.498572012908 0.498572012908 0 0 0 -50.4863066015 26.4031315306 L -49.9893550048 26.3480034025 A 0.5 0.5 0 1 1 -49.2085963704 26.9728361439 L -49.0337534945 28.5489543484 A 0.5 0.5 0 0 1 -49.6585862359 29.3297129828 L -52.2286076338 29.614812115 A 0.5 0.5 0 1 1 -53.0093662682 28.9899793736 L -53.2621720906 26.7110654812 L -54.2878736336 24.6603837268 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch015_w0005"  d="M -41.8973898961 21.0266755913 A 0.5 0.5 0 0 1 -42.8461176752 20.7105812996 L -43.5555024744 19.2923105806 A 0.5 0.5 0 1 1 -43.2394081827 18.3435828016 L -40.9267732004 17.1868585734 A 0.5 0.5 0 1 1 -39.9780454214 17.5029528652 L -39.2686606221 18.9212235842 A 0.5 0.5 0 1 1 -39.5847549139 19.8699513632 L -41.8973898961 21.0266755913 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch015_w0006"  d="M -40.3017693124 28.2917370395 A 0.5 0.5 0 1 1 -41.0825279469 27.666904298 L -41.2573708228 26.0907860935 A 0.5 0.5 0 1 1 -40.6325380813 25.3100274591 L -38.0625166834 25.0249283269 A 0.5 0.5 0 1 1 -37.281758049 25.6497610684 L -37.1069151731 27.2258792728 A 0.5 0.5 0 1 1 -37.7317479145 28.0066379073 L -40.3017693124 28.2917370395 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="-45.3489772746" cy="24.3743396802" r="1.15" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>holes_middle_down</title>
+</g>
+<g id="Sketch016" transform="translate(98.465843,112.344640) scale(1,-1)">
+<path id="Sketch016_w0000"  d="M 1.98570377566 74.8535533906 A 0.5 0.5 0 1 1 2.95162960195 75.1123724357 L 4.24452282076 77.3517291794 A 0.5 0.5 0 1 1 3.98570377566 78.3176550057 L 2.6123724357 79.1105482245 A 0.5 0.5 0 1 1 1.64644660941 78.8517291794 L 1.39644660941 78.4187164776 A 1.6124776517 1.6124776517 0 0 0 -1.39644660941 78.4187164775 L -1.64644660941 78.8517291794 A 0.5 0.5 0 1 1 -2.6123724357 79.1105482245 L -3.98570377566 78.3176550057 A 0.5 0.5 0 1 1 -4.24452282076 77.3517291794 L -2.95162960195 75.1123724357 A 0.5 0.5 0 1 1 -1.98570377566 74.8535533906 L 0.0 76.0 L 1.98570377566 74.8535533906 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch016_w0001"  d="M 10.3535533906 93.9328805114 A 0.5 0.5 0 0 1 10.6123724357 92.9669546851 L 11.9857037757 92.1740614663 A 0.5 0.5 0 1 1 12.9516296019 92.4328805114 L 14.2445228208 94.6722372551 A 0.5 0.5 0 1 1 13.9857037757 95.6381630814 L 12.6123724357 96.4310563002 A 0.5 0.5 0 1 1 11.6464466094 96.1722372551 L 10.3535533906 93.9328805114 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch016_w0002"  d="M -12.9516296019 92.4328805114 A 0.5 0.5 0 1 1 -11.9857037757 92.1740614663 L -10.6123724357 92.9669546851 A 0.5 0.5 0 1 1 -10.3535533906 93.9328805114 L -11.6464466094 96.1722372551 A 0.5 0.5 0 1 1 -12.6123724357 96.4310563002 L -13.9857037757 95.6381630814 A 0.5 0.5 0 1 1 -14.2445228208 94.6722372551 L -12.9516296019 92.4328805114 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="0.0" cy="84.7846096908" r="1.15" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>holes_front_down</title>
+</g>
 </svg>

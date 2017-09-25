@@ -1,78 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="15.3mm"
-   height="137.8mm"
-   viewBox="0 0 15.3 137.8"
-   version="1.1"
-   id="svg5540"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="tibia.svg">
-  <metadata
-     id="metadata5554">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs5552" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1131"
-     id="namedview5550"
-     showgrid="false"
-     inkscape:zoom="1.9333655"
-     inkscape:cx="19.202775"
-     inkscape:cy="280.32773"
-     inkscape:window-x="1680"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="Sketch" />
-  <g
-     id="Sketch"
-     transform="translate(41.830557,176.903381) scale(1,-1)">
-    <path
-       id="Sketch_w0000"
-       d="M -38.1805573728 49.2533810788 L -38.1805573728 39.2533810788 L -35.6805573728 39.2533810788 L -35.6805573728 44.2533810788 L -32.6805573728 44.2533810788 L -32.6805573728 39.2533810788 L -30.1805573728 39.2533810788 L -30.1805573728 49.2533810788 L -26.6805573728 79.2533810788 L -26.6805573728 169.253381079 A 7.5 7.5 0 0 1 -41.6805573728 169.253381079 L -41.6805573728 79.2533810788 L -38.1805573728 49.2533810788 "
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#006633;stroke-opacity:1" />
-    <circle
-       cx="-34.1805573728"
-       cy="129.253381079"
-       r="1.45"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
-       id="circle5544" />
-    <circle
-       cx="-34.1805573728"
-       cy="169.253381079"
-       r="1.45"
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
-       id="circle5546" />
-    <title
-       id="title5548">tibia</title>
-  </g>
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="27.1853923665mm" height="138.018513165mm" viewBox="0 0 27.1853923665 138.018513165" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Sketch" transform="translate(59.380994,112.886207) scale(1,-1)">
+<path id="Sketch_w0000"  d="M -47.51860317 6.66316021645 A 133.873046078 133.873046078 0 0 1 -49.2610431453 -14.8657830261 L -49.2610431453 -24.8657830261 L -46.8110431453 -24.8657830261 L -46.8110431453 -19.8657830261 L -43.8110431453 -19.8657830261 L -43.8110431453 -24.8657830261 L -41.3110431453 -24.8657830261 L -41.3110431453 -14.8657830261 A 38.9907481322 38.9907481322 0 0 0 -39.1792655561 -2.14985874124 A 126.0 126.0 0 0 1 -35.5442925652 67.3921575477 A 112.0 112.0 0 0 0 -37.8268784752 104.352640091 A 7.5 7.5 0 0 1 -51.6493099081 109.103957029 A 50.0 50.0 0 0 1 -54.8154760685 62.102730843 A 97.0 97.0 0 0 0 -47.51860317 6.66316021645 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="-45.2860431453" cy="65.1342169739" r="1.15" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-45.2860431453" cy="105.134216974" r="1.45" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path id="Sketch_w0003"  d="M -49.5622990865 98.9727532578 A 2.0 2.0 0 0 1 -52.5878659366 97.9974541276 A 46.0 46.0 0 0 1 -53.8483734812 71.4595573331 A 2.0 2.0 0 0 1 -50.5141697723 70.5116412619 A 7.5 7.5 0 0 0 -43.4853261523 72.4148363371 A 2.0 2.0 0 0 1 -41.0293985323 74.666923938 A 116.0 116.0 0 0 0 -42.3993242016 95.6249936452 A 2.0 2.0 0 0 1 -44.5854933186 97.6670066555 A 7.5 7.5 0 0 0 -49.5622990865 98.9727532578 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch_w0004"  d="M -45.7054284926 57.6459517589 A 7.5 7.5 0 0 1 -40.8945992635 59.0543139622 A 2.0 2.0 0 0 0 -37.7474341898 57.7411881619 A 122.0 122.0 0 0 0 -38.4570521854 16.0514801822 A 2.0 2.0 0 0 0 -42.418319972 16.5400487187 A 101.0 101.0 0 0 1 -47.7092805846 55.0007944793 A 2.0 2.0 0 0 0 -45.7054284926 57.6459517589 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>tibia</title>
+</g>
 </svg>
