@@ -11,11 +11,11 @@
    height="29.32mm"
    viewBox="0 0 46.92 29.32"
    version="1.1"
-   id="svg7394"
-   sodipodi:docname="coxa_down.svg"
-   inkscape:version="0.92.1 r15371">
+   id="svg4316"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="coxa_down.svg">
   <metadata
-     id="metadata7400">
+     id="metadata4330">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs7398" />
+     id="defs4328" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,16 +36,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="732"
-     inkscape:window-height="480"
-     id="namedview7396"
+     inkscape:window-width="1920"
+     inkscape:window-height="1131"
+     id="namedview4326"
      showgrid="false"
-     inkscape:zoom="1.6014849"
-     inkscape:cx="88.667713"
-     inkscape:cy="55.407873"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:zoom="5.0698426"
+     inkscape:cx="77.756739"
+     inkscape:cy="89.87812"
+     inkscape:window-x="1680"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
      inkscape:current-layer="Sketch005" />
   <g
      id="Sketch005"
@@ -81,6 +81,6 @@
        stroke-width="0.35 px"
        style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-opacity:1" />
     <title
-       id="title7391">coxa_down</title>
+       id="title4324">coxa_down</title>
   </g>
 </svg>
