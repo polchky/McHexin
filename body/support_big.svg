@@ -7,15 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24.48mm"
-   height="41.48mm"
-   viewBox="0 0 24.48 41.48"
+   width="24.99mm"
+   height="41.49mm"
+   viewBox="0 0 24.99 41.49"
    version="1.1"
-   id="svg5713"
+   id="svg4490"
    sodipodi:docname="support_big.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
-     id="metadata5719">
+     id="metadata4496">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs5717" />
+     id="defs4494" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -38,31 +38,31 @@
      inkscape:pageshadow="2"
      inkscape:window-width="732"
      inkscape:window-height="480"
-     id="namedview5715"
+     id="namedview4492"
      showgrid="false"
-     inkscape:zoom="1.505344"
-     inkscape:cx="46.261416"
-     inkscape:cy="78.387401"
+     inkscape:zoom="1.5949061"
+     inkscape:cx="47.225196"
+     inkscape:cy="78.406302"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="Sketch013" />
   <g
      id="Sketch013"
-     transform="translate(-44.160956,175.987493) scale(1,-1)">
+     transform="translate(-43.867293,175.956992) scale(1,-1)">
     <path
        id="Sketch013_w0000"
-       d="M 48.4009562791 173.45459946 A 0.5 0.5 0 1 1 49.1080630602 172.747492679 L 63.6938494979 172.747492679 A 0.5 0.5 0 1 1 64.4009562791 173.45459946 L 64.4009562791 175.747492679 L 68.4009562791 175.747492679 L 68.4009562791 134.747492679 L 64.4009562791 134.747492679 L 64.4009562791 137.040385898 A 0.5 0.5 0 1 1 63.6938494979 137.747492679 L 49.1080630602 137.747492679 A 0.5 0.5 0 1 1 48.4009562791 137.040385898 L 48.4009562791 134.747492679 L 44.4009562791 134.747492679 L 44.4009562791 175.747492679 L 48.4009562791 175.747492679 L 48.4009562791 173.45459946 "
+       d="M 48.6122933884 173.419098495 A 0.5 0.5 0 1 1 49.3194001696 172.711991714 L 63.4051866072 172.711991714 A 0.5 0.5 0 1 1 64.1122933884 173.419098495 L 64.1122933884 175.711991714 L 68.6122933884 175.711991714 L 68.6122933884 134.711991714 L 64.1122933884 134.711991714 L 64.1122933884 137.004884932 A 0.5 0.5 0 0 1 63.4051866072 137.711991714 L 49.3194001696 137.711991714 A 0.5 0.5 0 1 1 48.6122933884 137.004884932 L 48.6122933884 134.711991714 L 44.1122933884 134.711991714 L 44.1122933884 175.711991714 L 48.6122933884 175.711991714 L 48.6122933884 173.419098495 "
        stroke="#000000"
        stroke-width="0.35 px"
        style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#006633;stroke-opacity:1" />
     <path
        id="Sketch013_w0001"
-       d="M 56.4009562791 169.747492679 A 14.5 9.0 -90.0 0 1 56.4009562791 140.747492679 A 14.5 9.0 -90.0 0 1 56.4009562791 169.747492679 "
+       d="M 56.3622933884 169.711991714 A 14.5 9.25 90.0 0 1 56.3622933884 140.711991714 A 14.5 9.25 90.0 0 1 56.3622933884 169.711991714 "
        stroke="#000000"
        stroke-width="0.35 px"
        style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-opacity:1" />
     <title
-       id="title5710">support_big</title>
+       id="title4487">support_big</title>
   </g>
 </svg>

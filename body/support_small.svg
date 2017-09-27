@@ -7,15 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16.32mm"
-   height="41.32mm"
-   viewBox="0 0 16.32 41.32"
+   width="16.83mm"
+   height="41.33mm"
+   viewBox="0 0 16.83 41.33"
    version="1.1"
-   id="svg6269"
+   id="svg4503"
    sodipodi:docname="support_small.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
-     id="metadata6275">
+     id="metadata4509">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs6273" />
+     id="defs4507" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -38,31 +38,31 @@
      inkscape:pageshadow="2"
      inkscape:window-width="732"
      inkscape:window-height="480"
-     id="namedview6271"
+     id="namedview4505"
      showgrid="false"
-     inkscape:zoom="1.511173"
-     inkscape:cx="30.840944"
-     inkscape:cy="78.085039"
+     inkscape:zoom="1.5108073"
+     inkscape:cx="31.804724"
+     inkscape:cy="78.10394"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="Sketch" />
   <g
      id="Sketch"
-     transform="translate(-73.567785,175.456754) scale(1,-1)">
+     transform="translate(-70.704645,175.400892) scale(1,-1)">
     <path
        id="Sketch_w0000"
-       d="M 77.7277847506 173.003861212 A 0.5 0.5 0 0 1 78.4348915318 172.296754431 L 85.0206779694 172.296754431 A 0.5 0.5 0 1 1 85.7277847506 173.003861212 L 85.7277847506 175.296754431 L 89.7277847506 175.296754431 L 89.7277847506 134.296754431 L 85.7277847506 134.296754431 L 85.7277847506 136.58964765 A 0.5 0.5 0 0 1 85.0206779694 137.296754431 L 78.4348915318 137.296754431 A 0.5 0.5 0 1 1 77.7277847506 136.58964765 L 77.7277847506 134.296754431 L 73.7277847506 134.296754431 L 73.7277847506 175.296754431 L 77.7277847506 175.296754431 L 77.7277847506 173.003861212 "
+       d="M 75.369645219 172.942999042 A 0.5 0.5 0 0 1 76.0767520002 172.235892261 L 82.1625384379 172.235892261 A 0.5 0.5 0 1 1 82.869645219 172.942999042 L 82.869645219 175.235892261 L 87.369645219 175.235892261 L 87.369645219 134.235892261 L 82.869645219 134.235892261 L 82.869645219 136.52878548 A 0.5 0.5 0 0 1 82.1625384379 137.235892261 L 76.0767520002 137.235892261 A 0.5 0.5 0 1 1 75.369645219 136.52878548 L 75.369645219 134.235892261 L 70.869645219 134.235892261 L 70.869645219 175.235892261 L 75.369645219 175.235892261 L 75.369645219 172.942999042 "
        stroke="#000000"
        stroke-width="0.35 px"
        style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#006633;stroke-opacity:1" />
     <path
        id="Sketch_w0001"
-       d="M 81.7277847506 169.296754431 A 14.5 5.0 -90.0 0 1 81.7277847506 140.296754431 A 14.5 5.0 -90.0 0 1 81.7277847506 169.296754431 "
+       d="M 79.119645219 169.235892261 A 14.5 5.25 90.0 0 1 79.119645219 140.235892261 A 14.5 5.25 90.0 0 1 79.119645219 169.235892261 "
        stroke="#000000"
        stroke-width="0.35 px"
        style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-opacity:1" />
     <title
-       id="title6266">support_small</title>
+       id="title4500">support_small</title>
   </g>
 </svg>
