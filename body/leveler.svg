@@ -7,26 +7,27 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="15.3mm"
-   height="15.1906331115mm"
-   viewBox="0 0 15.3 15.1906331115"
+   width="11.832mm"
+   height="11.7474229395mm"
+   viewBox="0 0 11.832 11.7474229395"
    version="1.1"
-   id="svg5157"
-   sodipodi:docname="leveler.svg"
-   inkscape:version="0.92.1 r15371">
+   id="svg4349"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="leveler.svg">
   <metadata
-     id="metadata5163">
+     id="metadata4362">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs5161" />
+     id="defs4360" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,28 +37,29 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="732"
+     inkscape:window-width="748"
      inkscape:window-height="480"
-     id="namedview5159"
+     id="namedview4358"
      showgrid="false"
-     inkscape:zoom="4.1105376"
-     inkscape:cx="28.913386"
-     inkscape:cy="28.706708"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:document-units="mm"
+     inkscape:zoom="5.6697067"
+     inkscape:cx="20.962204"
+     inkscape:cy="20.812364"
+     inkscape:window-x="2024"
+     inkscape:window-y="241"
      inkscape:window-maximized="0"
      inkscape:current-layer="Sketch007" />
   <g
      id="Sketch007"
-     transform="translate(-113.902036,120.818635) scale(1,-1)">
+     transform="translate(-115.636036,119.097030) scale(1,-1)">
     <circle
        cx="121.552036351"
        cy="113.223318733"
-       r="7.5"
+       r="5.8"
        stroke="#000000"
        stroke-width="0.35 px"
        style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#006633;stroke-opacity:1"
-       id="circle5150" />
+       id="circle4352" />
     <circle
        cx="121.552036351"
        cy="113.223318733"
@@ -65,8 +67,8 @@
        stroke="#000000"
        stroke-width="0.35 px"
        style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
-       id="circle5152" />
+       id="circle4354" />
     <title
-       id="title5154">leveler</title>
+       id="title4356">leveler</title>
   </g>
 </svg>
