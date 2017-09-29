@@ -7,15 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="27.1853923665mm"
-   height="138.018513165mm"
-   viewBox="0 0 27.1853923665 138.018513165"
+   width="27.133567678mm"
+   height="138.017496995mm"
+   viewBox="0 0 27.133567678 138.017496995"
    version="1.1"
-   id="svg6195"
-   sodipodi:docname="tibia.svg"
-   inkscape:version="0.92.1 r15371">
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="tibia.svg">
   <metadata
-     id="metadata6201">
+     id="metadata18">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs6199" />
+     id="defs16" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,55 +36,55 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="732"
+     inkscape:window-width="748"
      inkscape:window-height="480"
-     id="namedview6197"
+     id="namedview14"
      showgrid="false"
-     inkscape:zoom="0.90483033"
-     inkscape:cx="60.936073"
-     inkscape:cy="302.53661"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="0.4825797"
+     inkscape:cx="48.071282"
+     inkscape:cy="244.5192"
+     inkscape:window-x="10"
+     inkscape:window-y="34"
      inkscape:window-maximized="0"
      inkscape:current-layer="Sketch" />
   <g
      id="Sketch"
-     transform="translate(59.380994,112.886207) scale(1,-1)">
-    <path
-       id="Sketch_w0000"
-       d="M -47.51860317 6.66316021645 A 133.873046078 133.873046078 0 0 1 -49.2610431453 -14.8657830261 L -49.2610431453 -24.8657830261 L -46.8110431453 -24.8657830261 L -46.8110431453 -19.8657830261 L -43.8110431453 -19.8657830261 L -43.8110431453 -24.8657830261 L -41.3110431453 -24.8657830261 L -41.3110431453 -14.8657830261 A 38.9907481322 38.9907481322 0 0 0 -39.1792655561 -2.14985874124 A 126.0 126.0 0 0 1 -35.5442925652 67.3921575477 A 112.0 112.0 0 0 0 -37.8268784752 104.352640091 A 7.5 7.5 0 0 1 -51.6493099081 109.103957029 A 50.0 50.0 0 0 1 -54.8154760685 62.102730843 A 97.0 97.0 0 0 0 -47.51860317 6.66316021645 "
-       stroke="#000000"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#006633;stroke-opacity:1" />
+     transform="translate(44.777845,108.327159) scale(1,-1)">
     <circle
-       cx="-45.2860431453"
-       cy="65.1342169739"
+       cx="-30.6834022359"
+       cy="60.5756777528"
        r="1.15"
        stroke="#000000"
        stroke-width="0.35 px"
        style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
-       id="circle6186" />
+       id="circle5" />
     <circle
-       cx="-45.2860431453"
-       cy="105.134216974"
+       cx="-30.6834022359"
+       cy="100.575677753"
        r="1.45"
        stroke="#000000"
        stroke-width="0.35 px"
        style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke:#0000ff;stroke-opacity:1"
-       id="circle6188" />
+       id="circle7" />
+    <path
+       id="Sketch_w0002"
+       d="M -23.2242375658 99.79410087 A 112.0 112.0 0 0 1 -20.9416516558 62.8336183266 A 130.0 130.0 0 0 0 -27.8458857941 -17.1425882349 A 5.85950149241 5.85950149241 0 0 1 -28.3084022359 -19.4243222472 L -28.3084022359 -27.0493222472 A 2.375 2.375 0 1 0 -33.0584022359 -27.0493222472 L -33.0584022359 -19.4243222472 A 258.029595639 258.029595639 0 0 0 -31.7950101893 6.07840149771 A 101.0 101.0 0 0 1 -40.2128351591 57.5441916219 A 50.0 50.0 0 0 0 -37.0466689988 104.545417808 A 7.5 7.5 0 0 0 -23.2242375658 99.79410087 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#006633;stroke-opacity:1" />
     <path
        id="Sketch_w0003"
-       d="M -49.5622990865 98.9727532578 A 2.0 2.0 0 0 1 -52.5878659366 97.9974541276 A 46.0 46.0 0 0 1 -53.8483734812 71.4595573331 A 2.0 2.0 0 0 1 -50.5141697723 70.5116412619 A 7.5 7.5 0 0 0 -43.4853261523 72.4148363371 A 2.0 2.0 0 0 1 -41.0293985323 74.666923938 A 116.0 116.0 0 0 0 -42.3993242016 95.6249936452 A 2.0 2.0 0 0 1 -44.5854933186 97.6670066555 A 7.5 7.5 0 0 0 -49.5622990865 98.9727532578 "
+       d="M -34.9596581771 94.4142140367 A 2.0 2.0 0 0 1 -37.9852250272 93.4389149065 A 46.0 46.0 0 0 1 -39.2457325718 66.9010181119 A 2.0 2.0 0 0 1 -35.9115288629 65.9531020407 A 7.5 7.5 0 0 0 -28.8826852429 67.856297116 A 2.0 2.0 0 0 1 -26.4267576229 70.1083847169 A 116.0 116.0 0 0 0 -27.7966832922 91.0664544241 A 2.0 2.0 0 0 1 -29.9828524092 93.1084674343 A 7.5 7.5 0 0 0 -34.9596581771 94.4142140367 "
        stroke="#000000"
        stroke-width="0.35 px"
        style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-opacity:1" />
     <path
        id="Sketch_w0004"
-       d="M -45.7054284926 57.6459517589 A 7.5 7.5 0 0 1 -40.8945992635 59.0543139622 A 2.0 2.0 0 0 0 -37.7474341898 57.7411881619 A 122.0 122.0 0 0 0 -38.4570521854 16.0514801822 A 2.0 2.0 0 0 0 -42.418319972 16.5400487187 A 101.0 101.0 0 0 1 -47.7092805846 55.0007944793 A 2.0 2.0 0 0 0 -45.7054284926 57.6459517589 "
+       d="M -31.0885696459 53.0866297913 A 7.5 7.5 0 0 1 -26.2845540574 54.501129646 A 2.0 2.0 0 0 0 -23.1361588228 53.1941672361 A 126.0 126.0 0 0 0 -23.3853805571 12.2530197445 A 2.0 2.0 0 0 0 -27.3557411774 12.6548391275 A 105.0 105.0 0 0 1 -33.0864062309 50.4348088483 A 2.0 2.0 0 0 0 -31.0885696459 53.0866297913 "
        stroke="#000000"
        stroke-width="0.35 px"
        style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-opacity:1" />
     <title
-       id="title6192">tibia</title>
+       id="title12">tibia</title>
   </g>
 </svg>
