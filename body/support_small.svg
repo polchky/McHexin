@@ -8,8 +8,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16.626mm"
-   height="42.826mm"
-   viewBox="0 0 16.626 42.826"
+   height="43.326mm"
+   viewBox="0 0 16.626 43.326"
    version="1.1"
    id="svg2"
    inkscape:version="0.91 r13725"
@@ -40,25 +40,25 @@
      inkscape:window-height="480"
      id="namedview9"
      showgrid="false"
-     inkscape:zoom="1.5552338"
+     inkscape:zoom="1.5372858"
      inkscape:cx="29.455511"
-     inkscape:cy="75.872835"
+     inkscape:cy="76.758662"
      inkscape:window-x="10"
      inkscape:window-y="34"
      inkscape:window-maximized="0"
      inkscape:current-layer="Sketch" />
   <g
      id="Sketch"
-     transform="translate(-69.499943,177.620930) scale(1,-1)">
+     transform="translate(-69.499943,178.133772) scale(1,-1)">
     <path
        id="Sketch_w0000"
-       d="M 73.962943 175.165036676 A 0.5 0.5 0 0 1 74.6700497812 174.457929895 L 80.9558362188 174.457929895 A 0.5 0.5 0 0 1 81.662943 175.165036676 L 81.662943 177.457929895 L 85.962943 177.457929895 L 85.962943 134.957929895 L 81.662943 134.957929895 L 81.662943 137.250823114 A 0.5 0.5 0 0 1 80.9558362188 137.957929895 L 74.6700497812 137.957929895 A 0.5 0.5 0 1 1 73.962943 137.250823114 L 73.962943 134.957929895 L 69.662943 134.957929895 L 69.662943 177.457929895 L 73.962943 177.457929895 L 73.962943 175.165036676 "
+       d="M 73.962943 175.677878599 A 0.5 0.5 0 1 1 74.6700497812 174.970771817 L 80.9558362188 174.970771817 A 0.5 0.5 0 1 1 81.662943 175.677878599 L 81.662943 177.970771817 L 85.962943 177.970771817 L 85.962943 134.970771817 L 81.662943 134.970771817 L 81.662943 137.263665036 A 0.5 0.5 0 1 1 80.9558362188 137.970771817 L 74.6700497812 137.970771817 A 0.5 0.5 0 1 1 73.962943 137.263665036 L 73.962943 134.970771817 L 69.662943 134.970771817 L 69.662943 177.970771817 L 73.962943 177.970771817 L 73.962943 175.677878599 "
        stroke="#000000"
        stroke-width="0.35 px"
        style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#006633;stroke-opacity:1" />
     <path
        id="Sketch_w0001"
-       d="M 77.812943 171.457929895 A 15.25 5.15 -90.0 0 1 77.812943 140.957929895 A 15.25 5.15 -90.0 0 1 77.812943 171.457929895 "
+       d="M 77.812943 171.970771817 A 15.5 5.15 -90.0 0 1 77.812943 140.970771817 A 15.5 5.15 -90.0 0 1 77.812943 171.970771817 "
        stroke="#000000"
        stroke-width="0.35 px"
        style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-opacity:1" />
